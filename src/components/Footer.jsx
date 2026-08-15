@@ -40,16 +40,16 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-3 mb-5">
               <img
-                src="/colours-makeover-logo.png"
-                alt="Professional Beauty Parlour & Meckup Artist"
-                className="h-16 w-auto object-contain"
+                src="/makeup-studio-logo.jpg"
+                alt="Professional Beauty Parlour & Makeup Artist"
+                className="h-16 w-auto object-contain rounded-lg"
               />
               <div>
                 <h4 className="font-display text-xl text-white font-light leading-tight">
                   Professional Beauty Parlour
                 </h4>
                 <p className="font-body text-[9px] tracking-[3px] uppercase text-gold/80">
-                  & Meckup Artist
+                  & Makeup Artist
                 </p>
               </div>
             </div>
@@ -112,7 +112,7 @@ export default function Footer() {
       <div className="border-t border-white/5 py-6 px-6">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-body text-xs text-white/30 tracking-wide">
-            © 2026 Professional Beauty Parlour & Meckup Artist. All rights reserved. A/P Balawadi (Kha) Tel. Khanapur Dist. Sangli.
+            © 2026 Professional Beauty Parlour & Makeup Artist. All rights reserved. A/P Balawadi (Kha) Tel. Khanapur Dist. Sangli.
           </p>
           <p className="font-body text-xs text-white/20 flex items-center gap-1.5">
             Crafted with <Heart size={10} className="text-blush/50 fill-blush/50" /> for beauty

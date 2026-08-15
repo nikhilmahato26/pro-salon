@@ -38,16 +38,16 @@ export default function Navbar() {
             whileHover={{ scale: 1.02 }}
           >
             <img
-              src="/colours-makeover-logo.png"
-              alt="Professional Beauty Parlour & Meckup Artist"
-              className="h-14 w-auto object-contain"
+              src="/makeup-studio-logo.jpg"
+              alt="Professional Beauty Parlour & Makeup Artist"
+              className="h-14 w-auto object-contain rounded-lg"
             />
             <div className="flex flex-col">
               <span className="font-display text-base lg:text-lg font-light text-white tracking-wider leading-tight group-hover:text-gold transition-colors">
                 Professional Beauty
               </span>
               <span className="font-body text-[8px] lg:text-[9px] tracking-[2px] uppercase text-gold/80">
-                Parlour & Meckup Artist
+                Parlour & Makeup Artist
               </span>
             </div>
           </motion.a>
